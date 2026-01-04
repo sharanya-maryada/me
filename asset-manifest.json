@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/me/static/js/main.657bfda1.js",
+    "static/media/me.png": "/me/static/media/me.01d2cc3c6ecebbec2de5.png",
+    "static/media/mlai.png": "/me/static/media/mlai.868d140033200df96cf0.png",
+    "static/media/NET.png": "/me/static/media/NET.859fb3129d47b93e6eb7.png",
+    "static/media/nature.png": "/me/static/media/nature.b5d355781eba8540a983.png",
+    "static/media/baking.png": "/me/static/media/baking.80f3b40bd986dcf0390b.png",
+    "static/media/bjj.png": "/me/static/media/bjj.f748130be5ad6615b75d.png",
+    "static/media/Meebo.png": "/me/static/media/Meebo.477231d3dc08f8648bb3.png",
+    "static/media/invaders.png": "/me/static/media/invaders.3325a53ef9ea99532428.png",
+    "static/media/Resume1.pdf": "/me/static/media/Resume1.dcf5e71ae1de146fcdb8.pdf",
+    "static/media/lively-balloons.png": "/me/static/media/lively-balloons.0b4fca1ec711f0affd53.png",
+    "static/media/hangman.png": "/me/static/media/hangman.f84766f553ecbde3408f.png",
+    "static/media/weather.png": "/me/static/media/weather.7126f8376b06cf3bfa85.png",
+    "static/media/crypto-tracker.png": "/me/static/media/crypto-tracker.be0e08e55a5e21f45c8f.png",
+    "static/media/Springboot.png": "/me/static/media/Springboot.7a16de3a3d9cc486bbed.png",
+    "static/media/node.png": "/me/static/media/node.94608a755faec0311952.png",
+    "static/media/website.png": "/me/static/media/website.1a36876bb4403fa6e1ed.png",
+    "static/media/blackVerticalLine.png": "/me/static/media/blackVerticalLine.b98d23350c030edeb194.png",
+    "index.html": "/me/index.html",
+    "main.657bfda1.js.map": "/me/static/js/main.657bfda1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.657bfda1.js"
+  ]
+}

@@ -26,6 +26,7 @@ function Skills() {
       <h2 className="subtitle" data-aos="fade-up" data-aos-duration="600" data-aos-once="true">COMPUTER LANGUAGES</h2>
       <div className="grid">
         <EachSkill name="Java" image={java} />
+        <EachSkill name="C#" image={java} />
         <EachSkill name="Python 3" image={python} />
         <EachSkill name="Javascript" image={javascript} />
         <EachSkill name="React JS" image={react} />
@@ -34,6 +35,9 @@ function Skills() {
         <EachSkill name="SQL" image={sql} />
         <EachSkill name="Node JS" image={node} />
         <EachSkill name="JSON" image={json} />
+        <EachSkill name=".NET" image={NET} />
+        <EachSkill name="Springboot" image={Springboot} />
+        <EachSkill name="ML & AI" image={mlai} />
       </div>
       <h2 className="subtitle" data-aos="fade-up" data-aos-duration="500" data-aos-once="true">HUMAN LANGUAGES</h2>
       <div className="grid">

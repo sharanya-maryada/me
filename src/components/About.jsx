@@ -9,9 +9,9 @@ function AboutMe () {
       <div className="row">
         <div className="col">
           <div className="about-description" data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">
-            <p>Hello Friend!</p>
-            <p>I'm Sharanya Maryada, a Software Engineer who currently works for Bear Brown Company.</p>
-            <p>I graduated Spring of 2024 from Northeastern University with a M.S. degree in Computer Science.</p>
+            <p>Hello!</p>
+            <p>I'm Sharanya Maryada, a Software Engineer who currently works st Symplr. I have 3+ years of work experience.</p>
+            <p>I graduated in the Spring of 2024 from Northeastern University with a M.S. degree in Computer Science.</p>
             <p>If you would like to learn more about my experiences, keep scrolling down, or you can check out my resume (link in the home page). </p>
           </div>
         </div>

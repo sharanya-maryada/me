@@ -9,7 +9,7 @@ function Contact() {
         <div id="contactTopSpacing"></div>
         <p className="contactParagraph">Let's chat.</p>
         <p className="contactParagraph">I would love to hear from you!</p>
-        <a href="mailto: maryada.s@northeastern.edu">
+        <a href="mailto: sharanyamaryadar@gmail.com">
           <button className="button">SAY HELLO</button>
         </a>
         <div id="contactBottomSpacing"></div>

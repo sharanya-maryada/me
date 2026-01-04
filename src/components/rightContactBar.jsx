@@ -22,7 +22,7 @@ function RightBar() {
   return (
     <div className="rightBarSection" data-aos="zoom-in" data-aos-once="true" data-aos-duration="800" data-aos-delay="2000">
       <SocialButton image={github} name="Github" link="https://github.com/sharanya-maryada" />
-      <SocialButton image={email} name="Email" link="mailto: maryada.s@northeastern.edu" />
+      <SocialButton image={email} name="Email" link="mailto:sharanyamaryadar@gmail.com" />
       <SocialButton image={phone} name="Phone" link="tel:6178357609" />
       <SocialButton image={linkedin} name="LinkedIn" link="https://www.linkedin.com/in/sharanya-maryada/" />
       <SocialButton image={instragram} name="Instragram" link="https://www.instagram.com/maryada.sharanya/" />

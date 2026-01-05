@@ -1,7 +1,6 @@
 {
   "files": {
-    "main.js": "/me/static/js/main.657bfda1.js",
-    "static/media/me.png": "/me/static/media/me.01d2cc3c6ecebbec2de5.png",
+    "main.js": "/me/static/js/main.c54dd3d4.js",
     "static/media/mlai.png": "/me/static/media/mlai.868d140033200df96cf0.png",
     "static/media/NET.png": "/me/static/media/NET.859fb3129d47b93e6eb7.png",
     "static/media/nature.png": "/me/static/media/nature.b5d355781eba8540a983.png",
@@ -14,14 +13,15 @@
     "static/media/hangman.png": "/me/static/media/hangman.f84766f553ecbde3408f.png",
     "static/media/weather.png": "/me/static/media/weather.7126f8376b06cf3bfa85.png",
     "static/media/crypto-tracker.png": "/me/static/media/crypto-tracker.be0e08e55a5e21f45c8f.png",
+    "static/media/me.png": "/me/static/media/me.1779f383cf0d88b0dd2d.png",
     "static/media/Springboot.png": "/me/static/media/Springboot.7a16de3a3d9cc486bbed.png",
     "static/media/node.png": "/me/static/media/node.94608a755faec0311952.png",
     "static/media/website.png": "/me/static/media/website.1a36876bb4403fa6e1ed.png",
     "static/media/blackVerticalLine.png": "/me/static/media/blackVerticalLine.b98d23350c030edeb194.png",
     "index.html": "/me/index.html",
-    "main.657bfda1.js.map": "/me/static/js/main.657bfda1.js.map"
+    "main.c54dd3d4.js.map": "/me/static/js/main.c54dd3d4.js.map"
   },
   "entrypoints": [
-    "static/js/main.657bfda1.js"
+    "static/js/main.c54dd3d4.js"
   ]
 }
